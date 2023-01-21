@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recurpay/static/css/main.cb534ea2.css",
+    "main.js": "/recurpay/static/js/main.92a865a6.js",
+    "static/js/787.102b4591.chunk.js": "/recurpay/static/js/787.102b4591.chunk.js",
+    "index.html": "/recurpay/index.html",
+    "main.cb534ea2.css.map": "/recurpay/static/css/main.cb534ea2.css.map",
+    "main.92a865a6.js.map": "/recurpay/static/js/main.92a865a6.js.map",
+    "787.102b4591.chunk.js.map": "/recurpay/static/js/787.102b4591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb534ea2.css",
+    "static/js/main.92a865a6.js"
+  ]
+}
